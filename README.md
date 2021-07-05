@@ -6,6 +6,8 @@
 
 
    ** How To***
+   
+   
           1 Wire your Arduio Uno (I used Arduino Uno Clone) as per the given Sketch.)
           
           
