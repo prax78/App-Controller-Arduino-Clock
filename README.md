@@ -14,4 +14,5 @@
       
  ![alt text](https://github.com/prax78/App-Controller-Arduino-Clock/blob/main/clock.gif)
  ![alt text](https://github.com/prax78/App-Controller-Arduino-Clock/blob/main/LED_CLOCK_new.png)
-      
+
+ ![alt text](https://github.com/prax78/App-Controller-Arduino-Clock/blob/main/clock_app.png)
