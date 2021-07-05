@@ -8,7 +8,7 @@
    ** How To***
    
    
-          1 Wire your Arduio Uno (I used Arduino Uno Clone) as per the given Sketch.)
+          1 Wire your Arduio Uno (I used Arduino Uno Clone) as per the given Sketch.
           
           
           2 Upload the Sketch to Arduino.
