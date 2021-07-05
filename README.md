@@ -5,7 +5,7 @@
 ** Build your Flutter app shared the main.dart and pubspec.yaml**
 
 
-    `How To
+    `How To`
    
    
           1 Wire your Arduio Uno (I used Arduino Uno Clone) as per the given Sketch.
