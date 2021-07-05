@@ -13,4 +13,5 @@
       5 Launch your app, make sure you have turned Bluetooth ON on your mobile and paired your HC-05.
       
       
-      ![alt text](https://github.com/prax78/App-Controller-Arduino-Clock/blob/main/clock.gif)
+      ![alt text](https://github.com/prax78/Arduino_Clock_Control_Via_App/blob/main/Arduino_Clock.png)
+      
